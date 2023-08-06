@@ -1,0 +1,11 @@
+.d-none{
+    display: none;
+}
+
+.qr-div {
+  margin: auto;
+  width: auto;
+  margin-left: calc(50vw - 64px);
+  margin-top: 200px;
+
+}
